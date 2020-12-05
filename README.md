@@ -2,7 +2,7 @@
 
 
 
-*Project by sethlans01* 
+*__Project by:__ sethlans01* 
 
 *__Version:__ Release Candidate 1*
 

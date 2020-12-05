@@ -1,4 +1,4 @@
-** Labirinto 1.0**
+**Labirinto 1.0**
 
 *Project by sethlans01*
 *__Version:__ Release Candidate 1*
